@@ -1,1 +1,1 @@
-web: gunicorn webscarp.wsgi
+web: gunicorn mysite.wsgi
