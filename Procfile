@@ -1,1 +1,1 @@
-web: gunicorn webscraping.wsgi
+web: gunicorn webscarp.wsgi
