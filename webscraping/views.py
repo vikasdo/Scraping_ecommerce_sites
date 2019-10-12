@@ -1,6 +1,4 @@
-
-
-from bs4 import BeautifulSoup
+import BeautifulSoup
 import urllib.request as requested
 
 import requests
