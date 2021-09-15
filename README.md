@@ -19,10 +19,10 @@ The advent of internet and smartphones has been good to the e-commerce industry.
 For example when planning to buy a smartphone and you would want to see the prices at different platforms at a single place. What does it take to build such an aggregator platform? Here’s my small take on building an e-commerce site scraper.
 
 # Screenshots
+![Image of search_page](https://github.com/vikasdo/Scraping_ecommerce_sites/blob/master/search_page.png)
 
 ![Image of result_page](https://github.com/vikasdo/Scraping_ecommerce_sites/blob/master/result_page.png)
 
-![Image of search_page](https://github.com/vikasdo/Scraping_ecommerce_sites/blob/master/search_page.png)
 
 
 
